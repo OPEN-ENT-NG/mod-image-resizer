@@ -243,3 +243,6 @@ If an error occurs in saving the document a reply is returned:
 
 Where
 * `message` is an error message.
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/mod-image-resizer
